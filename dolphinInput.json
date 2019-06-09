@@ -2,14 +2,234 @@
   "mode": "queue",
   "queue": [
     {
+      "startFrame": 122,
+      "endFrame": 188,
+      "path": "C:\\Users\\sergio\\Documents\\GitHub\\the-bakery\\test.slp"
+    },
+    {
+      "startFrame": 394,
+      "endFrame": 656,
+      "path": "C:\\Users\\sergio\\Documents\\GitHub\\the-bakery\\test.slp"
+    },
+    {
+      "startFrame": 1030,
+      "endFrame": 1087,
+      "path": "C:\\Users\\sergio\\Documents\\GitHub\\the-bakery\\test.slp"
+    },
+    {
+      "startFrame": 1232,
+      "endFrame": 1474,
+      "path": "C:\\Users\\sergio\\Documents\\GitHub\\the-bakery\\test.slp"
+    },
+    {
+      "startFrame": 1496,
+      "endFrame": 1553,
+      "path": "C:\\Users\\sergio\\Documents\\GitHub\\the-bakery\\test.slp"
+    },
+    {
+      "startFrame": 1770,
+      "endFrame": 1838,
+      "path": "C:\\Users\\sergio\\Documents\\GitHub\\the-bakery\\test.slp"
+    },
+    {
+      "startFrame": 1965,
+      "endFrame": 2082,
+      "path": "C:\\Users\\sergio\\Documents\\GitHub\\the-bakery\\test.slp"
+    },
+    {
+      "startFrame": 3151,
+      "endFrame": 3222,
+      "path": "C:\\Users\\sergio\\Documents\\GitHub\\the-bakery\\test.slp"
+    },
+    {
+      "startFrame": 3396,
+      "endFrame": 3592,
+      "path": "C:\\Users\\sergio\\Documents\\GitHub\\the-bakery\\test.slp"
+    },
+    {
+      "startFrame": 4170,
+      "endFrame": 4294,
+      "path": "C:\\Users\\sergio\\Documents\\GitHub\\the-bakery\\test.slp"
+    },
+    {
+      "startFrame": 4433,
+      "endFrame": 4601,
+      "path": "C:\\Users\\sergio\\Documents\\GitHub\\the-bakery\\test.slp"
+    },
+    {
+      "startFrame": 4685,
+      "endFrame": 4813,
+      "path": "C:\\Users\\sergio\\Documents\\GitHub\\the-bakery\\test.slp"
+    },
+    {
+      "startFrame": 4856,
+      "endFrame": 4951,
+      "path": "C:\\Users\\sergio\\Documents\\GitHub\\the-bakery\\test.slp"
+    },
+    {
+      "startFrame": 5029,
+      "endFrame": 5101,
+      "path": "C:\\Users\\sergio\\Documents\\GitHub\\the-bakery\\test.slp"
+    },
+    {
+      "startFrame": 5402,
+      "endFrame": 5578,
+      "path": "C:\\Users\\sergio\\Documents\\GitHub\\the-bakery\\test.slp"
+    },
+    {
+      "startFrame": 5790,
+      "endFrame": 5913,
+      "path": "C:\\Users\\sergio\\Documents\\GitHub\\the-bakery\\test.slp"
+    },
+    {
+      "startFrame": 5937,
+      "endFrame": 5995,
+      "path": "C:\\Users\\sergio\\Documents\\GitHub\\the-bakery\\test.slp"
+    },
+    {
+      "startFrame": 6145,
+      "endFrame": 6235,
+      "path": "C:\\Users\\sergio\\Documents\\GitHub\\the-bakery\\test.slp"
+    },
+    {
+      "startFrame": 6244,
+      "endFrame": 6301,
+      "path": "C:\\Users\\sergio\\Documents\\GitHub\\the-bakery\\test.slp"
+    },
+    {
+      "startFrame": 6302,
+      "endFrame": 6443,
+      "path": "C:\\Users\\sergio\\Documents\\GitHub\\the-bakery\\test.slp"
+    },
+    {
+      "startFrame": 6454,
+      "endFrame": 6662,
+      "path": "C:\\Users\\sergio\\Documents\\GitHub\\the-bakery\\test.slp"
+    },
+    {
+      "startFrame": 6726,
+      "endFrame": 6759,
+      "path": "C:\\Users\\sergio\\Documents\\GitHub\\the-bakery\\test.slp"
+    },
+    {
+      "startFrame": 7364,
+      "endFrame": 7421,
+      "path": "C:\\Users\\sergio\\Documents\\GitHub\\the-bakery\\test.slp"
+    },
+    {
+      "startFrame": 7479,
+      "endFrame": 7575,
+      "path": "C:\\Users\\sergio\\Documents\\GitHub\\the-bakery\\test.slp"
+    },
+    {
+      "startFrame": 7805,
+      "endFrame": 7925,
+      "path": "C:\\Users\\sergio\\Documents\\GitHub\\the-bakery\\test.slp"
+    },
+    {
+      "startFrame": 8111,
+      "endFrame": 8199,
+      "path": "C:\\Users\\sergio\\Documents\\GitHub\\the-bakery\\test.slp"
+    },
+    {
+      "startFrame": 8318,
+      "endFrame": 8369,
+      "path": "C:\\Users\\sergio\\Documents\\GitHub\\the-bakery\\test.slp"
+    },
+    {
+      "startFrame": 8670,
+      "endFrame": 8682,
+      "path": "C:\\Users\\sergio\\Documents\\GitHub\\the-bakery\\test.slp"
+    },
+    {
+      "startFrame": 152,
+      "endFrame": 432,
+      "path": "C:\\Users\\sergio\\Documents\\GitHub\\the-bakery\\test.slp"
+    },
+    {
+      "startFrame": 761,
+      "endFrame": 816,
+      "path": "C:\\Users\\sergio\\Documents\\GitHub\\the-bakery\\test.slp"
+    },
+    {
+      "startFrame": 829,
+      "endFrame": 1037,
+      "path": "C:\\Users\\sergio\\Documents\\GitHub\\the-bakery\\test.slp"
+    },
+    {
+      "startFrame": 1696,
+      "endFrame": 1800,
+      "path": "C:\\Users\\sergio\\Documents\\GitHub\\the-bakery\\test.slp"
+    },
+    {
+      "startFrame": 1897,
+      "endFrame": 1962,
+      "path": "C:\\Users\\sergio\\Documents\\GitHub\\the-bakery\\test.slp"
+    },
+    {
+      "startFrame": 2046,
+      "endFrame": 2229,
+      "path": "C:\\Users\\sergio\\Documents\\GitHub\\the-bakery\\test.slp"
+    },
+    {
+      "startFrame": 2385,
+      "endFrame": 2498,
+      "path": "C:\\Users\\sergio\\Documents\\GitHub\\the-bakery\\test.slp"
+    },
+    {
+      "startFrame": 2675,
+      "endFrame": 2845,
+      "path": "C:\\Users\\sergio\\Documents\\GitHub\\the-bakery\\test.slp"
+    },
+    {
+      "startFrame": 3939,
+      "endFrame": 4000,
+      "path": "C:\\Users\\sergio\\Documents\\GitHub\\the-bakery\\test.slp"
+    },
+    {
+      "startFrame": 4347,
+      "endFrame": 4417,
+      "path": "C:\\Users\\sergio\\Documents\\GitHub\\the-bakery\\test.slp"
+    },
+    {
+      "startFrame": 5402,
+      "endFrame": 5478,
+      "path": "C:\\Users\\sergio\\Documents\\GitHub\\the-bakery\\test.slp"
+    },
+    {
+      "startFrame": 5536,
+      "endFrame": 5586,
+      "path": "C:\\Users\\sergio\\Documents\\GitHub\\the-bakery\\test.slp"
+    },
+    {
+      "startFrame": 7041,
+      "endFrame": 7101,
+      "path": "C:\\Users\\sergio\\Documents\\GitHub\\the-bakery\\test.slp"
+    },
+    {
+      "startFrame": 7613,
+      "endFrame": 7777,
+      "path": "C:\\Users\\sergio\\Documents\\GitHub\\the-bakery\\test.slp"
+    },
+    {
+      "startFrame": 7979,
+      "endFrame": 8123,
+      "path": "C:\\Users\\sergio\\Documents\\GitHub\\the-bakery\\test.slp"
+    },
+    {
+      "startFrame": 8191,
+      "endFrame": 8297,
+      "path": "C:\\Users\\sergio\\Documents\\GitHub\\the-bakery\\test.slp"
+    },
+    {
       "startFrame": 8405,
       "endFrame": 8512,
-      "path": "/Users/sergioflores/Dropbox/dev/the-bakery/test.slp"
+      "path": "C:\\Users\\sergio\\Documents\\GitHub\\the-bakery\\test.slp"
     },
     {
       "startFrame": 8514,
       "endFrame": 8609,
-      "path": "/Users/sergioflores/Dropbox/dev/the-bakery/test.slp"
+      "path": "C:\\Users\\sergio\\Documents\\GitHub\\the-bakery\\test.slp"
     }
   ]
 }
