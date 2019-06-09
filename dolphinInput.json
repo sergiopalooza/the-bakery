@@ -1,0 +1,15 @@
+{
+  "mode": "queue",
+  "queue": [
+    {
+      "startFrame": 8405,
+      "endFrame": 8512,
+      "path": "/Users/sergioflores/Dropbox/dev/the-bakery/test.slp"
+    },
+    {
+      "startFrame": 8514,
+      "endFrame": 8609,
+      "path": "/Users/sergioflores/Dropbox/dev/the-bakery/test.slp"
+    }
+  ]
+}

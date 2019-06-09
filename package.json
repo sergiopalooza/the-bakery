@@ -1,0 +1,23 @@
+{
+  "name": "the-bakery",
+  "version": "1.0.0",
+  "description": "Working with slippi files from June 7/8th",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sergiopalooza/the-bakery.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sergiopalooza/the-bakery/issues"
+  },
+  "homepage": "https://github.com/sergiopalooza/the-bakery#readme",
+  "dependencies": {
+    "lodash": "^4.17.11",
+    "slp-parser-js": "^2.5.0"
+  }
+}
